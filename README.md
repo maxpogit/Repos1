@@ -1,2 +1,4 @@
 # Repos1
-This is my First repository. So all of you bend down and touch my feet
+This is my First repository. It's awesome
+
+What do you think? Ain't it beautiful?
